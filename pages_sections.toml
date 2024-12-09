@@ -1,0 +1,39 @@
+[[pages]]
+path = "hello.py"
+name = "Main Page"
+icon = "📄"
+
+[[pages]]
+path = "pages/overview.py"
+name = "Market Overview"
+icon = "📄"
+
+[[pages]]
+path = "pages/performance.py"
+name = "Performance"
+icon = "📄"
+
+[[pages]]
+path = "pages/trend.py"
+name = "Trends"
+icon = "📄"
+
+[[pages]]
+path = "pages/attention.py"
+name = "Attention Volume"
+icon = "📄"
+
+[[pages]]
+path = "pages/rsi.py"
+name = "RSI"
+icon = "📄"
+
+[[pages]]
+path = "pages/SMA.py"
+name = "SMA"
+icon = "📄"
+
+[[pages]]
+path = "pages/EMA.py"
+name = "EMA"
+icon = "📄"
